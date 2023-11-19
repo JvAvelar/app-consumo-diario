@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Consumo Diário</string>
+    <string name="touch_button">Toque no botão abaixo de acordo com a quantidade de ML consumida</string>
+    <string name="ml200">200ml</string>
+    <string name="ml500">500ml</string>
+    <string name="ml700">700ml</string>
+    <string name="ouput">Hoje 0ml</string>
+    <string name="consumer">consumido</string>
+    <string name="clear_all">Limpar tudo</string>
+
+</resources>
